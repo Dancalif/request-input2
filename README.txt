@@ -1,9 +1,5 @@
-#Basic Project
+#Helper Methods Project
 
-Basic Java Maven Project Structure
-
-*QA
-*Java
-*Maven
+Learn how to create helper methods
 
 [Denis Umanets](http://sqasolution.com)
